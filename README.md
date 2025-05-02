@@ -1,2 +1,2 @@
-# Train_Management_Syatem
+# Train_Management_System
 It displays complete details of each train, including travel time, arrival (reached) time, platform number, and train name. 
