@@ -304,9 +304,7 @@ where name like 'vijayawada') order by date;
 
 
 
-	where st.station_no-(select station_no from station 
-	where name like 'tirupathi') and sa.station_no=(select station_no from station 
-	where name like 'vijayawada') order by date;
+
 
 
 
